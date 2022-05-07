@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: '微信公众号同步文章',
+    Svg: require('@site/static/img/frog-mp.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        同步发布「井蛙惊梦人」微信公众号文章。
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: '正在写的书：《因材施教》',
+    Svg: require('@site/static/img/book.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        一套不仅仅适合国人的学习方法。
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: '关于作者',
+    Svg: require('@site/static/img/programming.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        一个热爱写作的程序员。
       </>
     ),
   },
@@ -48,6 +45,8 @@ function Feature({Svg, title, description}) {
     </div>
   );
 }
+
+
 
 export default function HomepageFeatures() {
   return (

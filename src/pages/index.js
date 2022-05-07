@@ -13,14 +13,17 @@ function HomepageHeader() {
       <div className="container">
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
+
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
+            👉  书籍：《因此施教：一套不仅仅适合国人的学习方法》
           </Link>
         </div>
+
       </div>
+
     </header>
   );
 }
@@ -29,7 +32,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
+      title={`来自「${siteConfig.title}」的问候`}
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>

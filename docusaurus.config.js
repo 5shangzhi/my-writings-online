@@ -60,8 +60,8 @@ const config = {
       navbar: {
         title: '井蛙惊梦人',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: '井蛙惊梦人 Logo',
+          src: 'img/frog-200.png',
         },
         items: [
           {
@@ -72,7 +72,7 @@ const config = {
           },
           {to: '/blog', label: '公众号文章', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/5shangzhi/',
             label: 'GitHub',
             position: 'right',
           },
@@ -82,11 +82,11 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Contact',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Email',
+                href: 'mailto: wuuhvi@outlook.com',
               },
             ],
           },
@@ -94,16 +94,8 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: '微信公众号',
+                to: '/blog',
               },
             ],
           },
@@ -111,17 +103,13 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
                 label: 'GitHub',
                 href: 'https://github.com/5shangzhi/',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} 井蛙惊梦人&吴尚智`,
       },
       prism: {
         theme: lightCodeTheme,
