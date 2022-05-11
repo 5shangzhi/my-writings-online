@@ -13,15 +13,6 @@ function HomepageHeader() {
       <div className="container">
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
-
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro">
-            👉  书籍：《因此施教：一套不仅仅适合国人的学习方法》
-          </Link>
-        </div>
-
       </div>
 
     </header>

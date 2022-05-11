@@ -2,11 +2,11 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# 因材施教
 
-Let's discover **Docusaurus in less than 5 minutes**.
+一套不仅仅适用于国人的学习方法。
 
-## Getting Started
+## 为什么要写这本书
 
 Get started by **creating a new site**.
 

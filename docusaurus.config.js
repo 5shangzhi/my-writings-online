@@ -64,13 +64,14 @@ const config = {
           src: 'img/frog-200.png',
         },
         items: [
+          {to: '/blog', label: '公众号文章', position: 'left'},
           {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: '关于我',
+            label: '📖《因材施教》',
           },
-          {to: '/blog', label: '公众号文章', position: 'left'},
+          {to: '/aboutme', label: '关于作者', position: 'right'},
           {
             href: 'https://github.com/5shangzhi/',
             label: 'GitHub',
