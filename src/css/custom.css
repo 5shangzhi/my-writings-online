@@ -28,3 +28,21 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+
+/* 5shangzhi appended */
+
+blockquote {
+  border-left: 6px solid hsl(214, 59%, 43%);
+  background-color: transparent;
+  color: hsl(165, 70%, 36%);
+  font-size: 100%;
+  margin: 0 0 1rem;
+  padding: 1rem;
+  box-shadow: none;
+}
+
+html[data-theme="dark"] blockquote {
+  border-left: 6px solid #5c5d5f;
+  color: #b746aa;
+}
