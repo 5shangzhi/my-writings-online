@@ -8,40 +8,32 @@ sidebar_position: 1
 
 ## 为什么要写这本书
 
-Get started by **creating a new site**.
+在求学生涯中，我走了很多弯路。我一直在摸索，在很长的一段时间内，不得其法。
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+我真正进入学习的状态，是毕业后才开始的。兴趣似乎是最好的老师，但是，苦于没有掌握很好的方法，事倍功半。更何况，一旦参加了工作，学习的时间肯定没有在校期间多。所以，虽然毕业后我渴望学习，但也吃了不少苦头。
 
-### What you'll need
+近几年，我给自己按下了暂停键。在这段放空的日子，我用学习来充实自己。
 
-- [Node.js](https://nodejs.org/en/download/) version 14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+与以往不同的是，我首先要解决的是**学习方法**，以提高学习效率，这样才能学到更多的东西，也力求学得更快。
 
-## Generate a new site
+我找来了一些相关书籍，比如：
 
-Generate a new Docusaurus site using the **classic template**.
+1. 《学会如何学习》（*Learning How to Learn: How to Succeed in School Without Spending All Your Time Studying*）
+2. 《如何高效学习》（*Learn More Study Less*）
+3. 《认知天性》（*Make It Stick: The Science of Successful Learning*）
+4. 《学习之道》（*A Mind for Numbers: How to Excel at Math and Science*）
+5. 《考试脑科学》（*脑科学中的高效记忆法（受験脳の作り方）*）
+6. 《人是如何学习的》（*How People Learn*）
+7. ……
 
-The classic template will automatically be added to your project after you run the command:
+而为了高效地阅读书籍，我不得不先学习**阅读方法**。没错，阅读也是有方法的。
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+比如，这方面最经典的书籍便是《如何阅读一本书》（*How to Read a Book: The Classic Guide to Intelligent Reading*），而为了追求快速阅读，我不得不又去找相应的书来看……
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+是不是这些书籍都经得起推敲，有没有人是在胡说八道？又或许，他们所讲的方法只是适合部分人，于我而言并不适用，我要如何鉴别？
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+所以，还得学习批判性思维的书籍，**思考也是有方法的**。于是，我一边学习，一边反思。
 
-## Start your site
+是时候把我的所思所想写下来了，希望对那些与我曾经处境相同的孩子有用。
 
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+也为了我的孩子。
