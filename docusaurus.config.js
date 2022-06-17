@@ -57,6 +57,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      metadata: [{name: 'keywords', content: '井蛙惊梦人, 吴尚智, 思维, 训练, 因材施教, 学习, 方法'}],
       navbar: {
         title: '井蛙惊梦人',
         logo: {
