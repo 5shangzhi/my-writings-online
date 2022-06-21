@@ -1,5 +1,5 @@
 ---
-slug: Android-Emulator-running-on-Apple-M1-machines-without-installing-Android-Studio
+slug: Android-Emulator-running-on-Apple-M1-machines-without-Android-Studio
 title: How to install Android Emulator on Apple M1 machines without  Android Studio
 authors: 5shangzhi
 description: How to install Android Emulator on Apple M1 machines without Android Studio
@@ -7,7 +7,7 @@ image: https://5shangzhi.github.io/img/frog-200.png
 keywords: [Android, Emulator, Apple, M1,  MacOS, 井蛙惊梦人, 吴尚智]
 ---
 
-Android Studio is a big Application. If you are not a Android programmer, you don't need it. But maybe you need an Android Emulator on your Apple M1 machines. So this document is for you.
+Android Studio is a big Application. If you are not an Android programmer, you don't need it. But sometimes you need an Android Emulator running on your Apple M1 machines. So this document is for you.
 
 It works well on my Macbook.
 
