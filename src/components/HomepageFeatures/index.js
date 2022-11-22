@@ -14,7 +14,7 @@ const FeatureList = [
       </>
     ),
     lnk: (
-      "/docs/intro"
+      "/blog"
     ),
     label:(
       '🐸 井蛙惊梦人'
